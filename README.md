@@ -4,7 +4,7 @@ Live Preview - [Click Here](https://keeper-ap.netlify.app/)
 
 <br/>
 <div align="center">
-  <img alt="Demo" src="public/mokup.png" />
+  <img alt="Demo" src="public/mockup.png" />
 </div>
 <br/>
 <br/>
