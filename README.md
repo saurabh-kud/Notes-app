@@ -2,4 +2,4 @@
 
 ### tech stack: react, talwind-css, react-router-dom, local-storage
 
-## Live prereview (https://notes-app.netlify.app/)
+## Live prereview (https://keeper-ap.netlify.app/)
